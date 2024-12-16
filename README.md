@@ -1,17 +1,17 @@
 👋 **Hello there!** ***I'm Chyrus Miguel D. Macalla***
-Welcome to my GitHub corner! I'm a <ins>Python newbie<ins>, <ins>coding enthusiast<ins>, and <ins>student on a thrilling journey through the world of programming<ins>. If you love code, gaming, anime, and random internet knowledge, you're in the right place!
+Welcome to my GitHub corner! I'm a _Python newbie_, _coding enthusiast_, and _student on a thrilling journey through the world of programming_. If you love code, gaming, anime, and random internet knowledge, you're in the right place!
 
 🎮 **Current Projects**
 I'm currently working on creating a game using Python! Though my project ideas might change as often as my favorite anime character, I'm always on the lookout for exciting new ventures.
 
 📚 **Learning Goals**
-+_Python Mastery_: Delving deeper into Python's syntax, frameworks, and how to create GUIs and games.
+*_Python Mastery_: Delving deeper into Python's syntax, frameworks, and how to create GUIs and games.
 
-+_AI Exploration_: Embarking on the journey to learn about artificial intelligence.
+*_AI Exploration_: Embarking on the journey to learn about artificial intelligence.
 
-+_Senior Programmer Skills_: Aiming to understand what it takes to become a senior programmer.
+*_Senior Programmer Skills_: Aiming to understand what it takes to become a senior programmer.
 
-+_Avoiding Copy-Pasting_: Mastering the fine art of writing my own code so I don’t end up being the world’s fastest Ctrl+C, Ctrl+V ninja.
+*_Avoiding Copy-Pasting_: Mastering the fine art of writing my own code so I don’t end up being the world’s fastest Ctrl+C, Ctrl+V ninja.
 
 🤝 **Collaboration Interests**
 Everything sparks my curiosity! If you have cool projects, fascinating ideas, or just want to brainstorm, I'm all ears!
