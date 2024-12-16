@@ -17,7 +17,7 @@ I'm currently working on creating a game using Python! Though my project ideas m
 
 <h2>🤝 <b>Collaboration Interests</b></h2>
 
-Everything sparks my curiosity! If you have cool projects, fascinating ideas, or just want to brainstorm, I'm all ears!
+<b>EVERYTHING</b> sparks my curiosity! If you have cool projects😎, fascinating ideas✨, or just want to brainstorm🧠, I'm all ears!
 
 <h2>🆘 <b>Seeking Help</b></h2>
 
