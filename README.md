@@ -9,10 +9,10 @@ I'm currently working on creating a game using Python! Though my project ideas m
 <h2>📚 <b>Learning Goals</b></h2>
 
 <ul> 
-  <li>_Python Mastery_: Delving deeper into Python's syntax, frameworks, and how to create GUIs and games.</li>
-  <li>_AI Exploration_: Embarking on the journey to learn about artificial intelligence.</li>
-  <li>_Senior Programmer Skills_: Aiming to understand what it takes to become a senior programmer.</li>
-  <li>_Avoiding Copy-Pasting_: Mastering the fine art of writing my own code so I don’t end up being the world’s fastest Ctrl+C, Ctrl+V ninja.</li>
+  <li><b>Python Mastery</b>: Delving deeper into Python's syntax, frameworks, and how to create GUIs and games.</li>
+  <li><b>AI Exploration:</b> Embarking on the journey to learn about artificial intelligence.</li>
+  <li><b>Senior Programmer Skills:</b> Aiming to understand what it takes to become a senior programmer.</li>
+  <li><b>Avoiding Copy-Pasting:</b> Mastering the fine art of writing my own code so I don’t end up being the world’s fastest Ctrl+C, Ctrl+V ninja.</li>
 </ul>
 
 <h2>🤝 <b>Collaboration Interests</b></h2>
