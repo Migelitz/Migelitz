@@ -1,7 +1,7 @@
-👋 **Hello there!** ***I'm Chyrus Miguel D. Macalla***
+👋 **Hello there!** ***I'm Chyrus Miguel D. Macalla*** \n
 Welcome to my GitHub corner! I'm a _Python newbie_, _coding enthusiast_, and _student on a thrilling journey through the world of programming_. If you love code, gaming, anime, and random internet knowledge, you're in the right place!
 
-🎮 **Current Projects**
+🎮 **Current Projects**\n
 I'm currently working on creating a game using Python! Though my project ideas might change as often as my favorite anime character, I'm always on the lookout for exciting new ventures.
 
 📚 **Learning Goals**
