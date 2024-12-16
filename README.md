@@ -1,6 +1,6 @@
 <h1>👋 <b>Hello there!</b> <b><em>I'm Chyrus Miguel D. Macalla</em></b></h1>
 
-Welcome to my GitHub corner! I'm a <ins>_Python newbie_</ins>, _coding enthusiast_, and _student on a thrilling journey through the world of programming_. If you love code, gaming, anime, and random internet knowledge, you're in the right place!
+Welcome to my GitHub corner! I'm a <ins>_Python newbie_</ins>, <ins>_coding enthusiast_</ins>, and <ins>_student on a thrilling journey through the world of programming_</ins>. If you love code, gaming, anime, and random internet knowledge, you're in the right place!
 
 <h2>🎮 <b>Current Projects</b></h2>
 
@@ -8,13 +8,12 @@ I'm currently working on creating a game using Python! Though my project ideas m
 
 <h2>📚 <b>Learning Goals</b></h2>
 
-*_Python Mastery_: Delving deeper into Python's syntax, frameworks, and how to create GUIs and games.
-
-*_AI Exploration_: Embarking on the journey to learn about artificial intelligence.
-
-*_Senior Programmer Skills_: Aiming to understand what it takes to become a senior programmer.
-
-*_Avoiding Copy-Pasting_: Mastering the fine art of writing my own code so I don’t end up being the world’s fastest Ctrl+C, Ctrl+V ninja.
+<ul> 
+  <li>_Python Mastery_: Delving deeper into Python's syntax, frameworks, and how to create GUIs and games.</li>
+  <li>_AI Exploration_: Embarking on the journey to learn about artificial intelligence.</li>
+  <li>_Senior Programmer Skills_: Aiming to understand what it takes to become a senior programmer.</li>
+  <li>_Avoiding Copy-Pasting_: Mastering the fine art of writing my own code so I don’t end up being the world’s fastest Ctrl+C, Ctrl+V ninja.</li>
+</ul>
 
 <h2>🤝 <b>Collaboration Interests</b></h2>
 
