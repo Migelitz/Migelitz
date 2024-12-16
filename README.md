@@ -37,4 +37,4 @@ He/Him
 
 <h2>🎮 <b>Fun Facts</b></h2>
 
-I’m a huge fan of video games, webtoons, manga, and anime (especially... Ehem). While Python is my main squeeze, I dabble in other programming languages too. Additionally, I hate arts!💢 I'm not creative nor passionate about it😤. Like damn... I suck at it. Lastly, I often find myself spiraling down internet rabbit holes, gaining random bits of knowledge along the way!
+I’m a huge fan of <b>VIDEO GAMES🎮, WEBTOONS, MANGA, and ANIME</b> (especially... Ehem). While Python is my main squeeze, I dabble in other programming languages too. Additionally, I <b>HATE</b> arts!💢 I'm not creative nor passionate about it😤. Like damn... I suck at it. Lastly, I often find myself spiraling down internet rabbit holes, gaining random bits of knowledge along the way! And of course!... Some weird... Knowledge too🤷‍♂️ (I need to cleanse my eyes👀 and brain🧠 often)
