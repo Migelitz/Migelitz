@@ -1,40 +1,38 @@
-<h1>👋 <b>Hello there!</b> <b><em>I'm Chyrus Miguel D. Macalla</em></b></h1>
+# 👋 **Hello there!** _I'm Chyrus Miguel D. Macalla_
 
-Welcome to my GitHub corner! I'm a <ins>_Python newbie_</ins>, <ins>_coding enthusiast_</ins>, and <ins>_student on a thrilling journey through the world of programming_</ins>. If you love code, gaming, anime, and random internet knowledge, you're in the right place!
+Welcome to my GitHub corner! I'm an aspiring computer science student and a passionate **Python programmer** currently expanding my skills in **C++** and **Java**. I enjoy solving problems through logical coding and am excited about diving deeper into software engineering principles.
 
-<h2>🎮 <b>Current Projects</b></h2>
+## 🎮 **Current Projects**
 
-I'm currently working on creating a game using Python! Though my project ideas might change as often as my favorite anime character, I'm always on the lookout for exciting new ventures.
+I have developed several projects including a Hangman game, a Slot Machine simulation, and a simple Banking system. I am currently exploring new projects in game development and software applications.
 
-<h2>📚 <b>Learning Goals</b></h2>
+## 📚 **Learning Goals**
 
-<ul> 
-  <li><b>Python Mastery</b>: Delving deeper into Python's syntax, frameworks, and how to create GUIs and games.</li>
-  <li><b>AI Exploration:</b> Embarking on the journey to learn about artificial intelligence.</li>
-  <li><b>Senior Programmer Skills:</b> Aiming to understand what it takes to become a senior programmer.</li>
-  <li><b>Avoiding Copy-Pasting:</b> Mastering the fine art of writing my own code so I don’t end up being the world’s fastest Ctrl+C, Ctrl+V ninja.</li>
-</ul>
+- **Programming Languages & Libraries:** Strengthening my knowledge in Python, C++, and Java, and working with libraries like PyQt5, pygame, and core Python modules such as sys, time, datetime, and random.
+- **Data Science & AI:** Beginning to explore artificial intelligence and machine learning techniques.
+- **Software Engineering:** Focusing on writing clean, logical, and maintainable code, embracing software engineering principles including problem-solving, best practices, and testing.
+- **Continuous Learning:** Developing a mindset of curiosity and persistence in mastering new skills and technologies.
 
-<h2>🤝 <b>Collaboration Interests</b></h2>
+## 🤝 **Collaboration Interests**
 
-<b>EVERYTHING</b> sparks my curiosity! If you have cool projects😎, fascinating ideas✨, or just want to brainstorm🧠, I'm all ears!
+I’m eager to collaborate on projects involving Python, software development, AI, or anything that challenges my problem-solving skills. If you have ideas or opportunities to share, let’s connect!
 
-<h2>🆘 <b>Seeking Help</b></h2>
+## 🆘 **Seeking Help**
 
-As a student and newbie, I'm navigating this coding universe and could use all the help and advice I can get. Let's learn together!
+As I continue my journey into computer science and programming, I welcome advice, mentorship, and feedback from experienced developers and peers.
 
-<h2>📬 <b>Contact Me</b></h2>
+## 📬 **Contact Me**
 
-GitHub: Migelitz
+GitHub: [Migelitz](https://github.com/Migelitz)  
+Email: macalla.chyrusmiguel@gmail.com  
+LinkedIn: [Chyrus Miguel D. Macalla](https://www.linkedin.com/in/chyrus-miguel-d-macalla)  
 
-Email: macalla.chyrusmiguel@gmail.com
+## 🏆 **Achievements & Skills**
 
-LinkedIn: Chyrus Miguel D. Macalla
+- Microsoft Excel Specialist Certificate  
+- Relentless curiosity and dedication to learning  
+- Problem-solving through logical and clean coding practices
 
-<h2>🔧 <b>Pronouns</b></h2>
+## 🎮 **Fun Facts**
 
-He/Him
-
-<h2>🎮 <b>Fun Facts</b></h2>
-
-I’m a huge fan of <b>VIDEO GAMES🎮, WEBTOONS, MANGA, and ANIME</b> (especially... Ehem). While Python is my main squeeze, I dabble in other programming languages too. Additionally, I <b>HATE</b> arts!💢 I'm not creative nor passionate about it😤. Like damn... I suck at it. Lastly, I often find myself spiraling down internet rabbit holes, gaining random bits of knowledge along the way! And of course!... Some weird... Knowledge too🤷‍♂️ (I need to cleanse my eyes👀 and brain🧠 often)
+I’m a huge fan of **video games, webtoons, manga, and anime**. While I’m passionate about programming, I’m less enthusiastic about arts — let’s just say creativity isn’t my strong suit! Outside of coding, I enjoy diving deep into random knowledge rabbit holes online, always eager to learn something new (and sometimes weird).
