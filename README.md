@@ -1,10 +1,10 @@
 # 👋 **Hello there!** _I'm Chyrus Miguel D. Macalla_
 
-Welcome to my GitHub corner! I'm an aspiring computer science student and a passionate **Python programmer** currently expanding my skills in **C++**. I enjoy solving problems through logical coding and am excited about diving deeper into software engineering principles.
+Welcome to my GitHub corner! I'm an aspiring computer science student and a passionate **Python programmer** currently expanding my skills in **C++** and **C**. I enjoy solving problems through logical coding and am excited about diving deeper into software engineering, artifical intellegence and machine learning principles.
 
 ## 🎮 **Current Projects**
 
-I have developed several projects including a Hangman game, a Slot Machine simulation, and a simple Banking system. I am currently building a sudoku solver with GUI and import image feature.
+- [py-sudoku-solver](https://github.com/Migelitz/py-sudoku-solver#)
 
 ## 📚 **Learning Goals**
 
@@ -60,7 +60,9 @@ LinkedIn: [Chyrus Miguel D. Macalla](https://www.linkedin.com/in/chyrus-miguel-d
 
 ## 🎮 **Fun Facts**
 
-I’m a huge fan of **video games, webtoons, manga, and anime**. While I’m passionate about programming, I’m less enthusiastic about arts — let’s just say creativity isn’t my strong suit! Outside of coding, I enjoy diving deep into random knowledge rabbit holes online, always eager to learn something new (and sometimes weird).
+- Huge fan of video games, webtoons, manga, and anime  
+- Less enthusiastic about arts — creativity isn't my strongest stat  
+- I love falling into random rabbit holes of strange knowledge online
 
 <br clear="both">
 
