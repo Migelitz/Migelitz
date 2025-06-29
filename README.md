@@ -1,6 +1,6 @@
 # 👋 **Hello there!** _I'm Chyrus Miguel D. Macalla_
 
-Welcome to my GitHub corner! I'm an aspiring computer science student and a passionate **Python programmer** currently expanding my skills in **C++** and **Java**. I enjoy solving problems through logical coding and am excited about diving deeper into software engineering principles.
+Welcome to my GitHub corner! I'm an aspiring computer science student and a passionate **Python programmer** currently expanding my skills in **C++**. I enjoy solving problems through logical coding and am excited about diving deeper into software engineering principles.
 
 ## 🎮 **Current Projects**
 
@@ -61,3 +61,7 @@ LinkedIn: [Chyrus Miguel D. Macalla](https://www.linkedin.com/in/chyrus-miguel-d
 ## 🎮 **Fun Facts**
 
 I’m a huge fan of **video games, webtoons, manga, and anime**. While I’m passionate about programming, I’m less enthusiastic about arts — let’s just say creativity isn’t my strong suit! Outside of coding, I enjoy diving deep into random knowledge rabbit holes online, always eager to learn something new (and sometimes weird).
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/migelitz/migelitz/output/snake.svg" alt="Snake animation" />
