@@ -4,7 +4,7 @@ Welcome to my GitHub corner! I'm an aspiring computer science student and a pass
 
 ## 🎮 **Current Projects**
 
-I have developed several projects including a Hangman game, a Slot Machine simulation, and a simple Banking system. I am currently exploring new projects in game development and software applications.
+I have developed several projects including a Hangman game, a Slot Machine simulation, and a simple Banking system. I am currently building a sudoku solver with GUI and import image feature.
 
 ## 📚 **Learning Goals**
 
@@ -12,6 +12,31 @@ I have developed several projects including a Hangman game, a Slot Machine simul
 - **Data Science & AI:** Beginning to explore artificial intelligence and machine learning techniques.
 - **Software Engineering:** Focusing on writing clean, logical, and maintainable code, embracing software engineering principles including problem-solving, best practices, and testing.
 - **Continuous Learning:** Developing a mindset of curiosity and persistence in mastering new skills and technologies.
+
+## 🧰 Languages & Tools
+
+**Currently Comfortable With:**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Planned to learn / Explore:**
+
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+## 🧠 Currently Studying
+
+- ![Harvard](https://img.shields.io/badge/-Harvard%20CS50x-A51C30?style=for-the-badge&logo=edx&logoColor=white)  
+  **CS50x: Introduction to Computer Science** – Exploring C and foundational computer science concepts through *Harvard University (edX)*.
+
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+  **C++ Language** – Learning C++ fundamentals and object-oriented programming as part of my *Local College Program (2025)*.
 
 ## 🤝 **Collaboration Interests**
 
