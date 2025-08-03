@@ -1,6 +1,6 @@
 # 👋 **Hello there!** _I'm Chyrus Miguel D. Macalla_
 
-Welcome to my GitHub corner! I'm an aspiring computer science student and a passionate **Python programmer** currently expanding my skills in **C++** and **C**. I enjoy solving problems through logical coding and am excited about diving deeper into software engineering, artifical intellegence and machine learning principles.
+Welcome to my GitHub corner! I'm an aspiring computer science student and a passionate **Python programmer** currently expanding my skills in **C++** and **C**. I enjoy solving problems through logical coding and am excited about diving deeper into software engineering, **artificial intelligence**, and machine learning principles.
 
 ## 🎮 **Current Projects**
 
@@ -19,13 +19,17 @@ Welcome to my GitHub corner! I'm an aspiring computer science student and a pass
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Planned to learn / Explore:**
+**Getting Comfortable With:**
+*(Used in small projects and continuing to improve skills.)*
 
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Planned to learn / Explore:**
+
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
