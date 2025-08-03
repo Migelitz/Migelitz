@@ -1,10 +1,10 @@
 # 👋 **Hello there!** _I'm Chyrus Miguel D. Macalla_
 
-Welcome to my GitHub corner! I'm a computer science student and a passionate **Python programmer** currently expanding my skills in **C++** and **C**. I enjoy solving problems through logical coding and am excited about diving deeper into software engineering, **artificial intelligence**, and machine learning principles.
+Welcome to my GitHub corner! I'm a computer science student and passionate **Python programmer** currently expanding my skills in **C++** and **C**. I enjoy solving problems through logical coding and am currently working on a challenging project involving image processing and GUI development. I'm excited to dive deeper into software engineering, **artificial intelligence**, and machine learning.
 
 ## 🎮 **Current Projects**
 
-- [GridGuru](https://github.com/Migelitz/py-sudoku-solver#)
+- [GridGuru](https://github.com/Migelitz/py-sudoku-solver#) – A Sudoku solver that supports GUI input, image recognition, and real-time solving logic.
 
 ## 📚 **Learning Goals**
 
