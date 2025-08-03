@@ -1,6 +1,6 @@
 # 👋 **Hello there!** _I'm Chyrus Miguel D. Macalla_
 
-Welcome to my GitHub corner! I'm an computer science student and a passionate **Python programmer** currently expanding my skills in **C++** and **C**. I enjoy solving problems through logical coding and am excited about diving deeper into software engineering, **artificial intelligence**, and machine learning principles.
+Welcome to my GitHub corner! I'm a computer science student and a passionate **Python programmer** currently expanding my skills in **C++** and **C**. I enjoy solving problems through logical coding and am excited about diving deeper into software engineering, **artificial intelligence**, and machine learning principles.
 
 ## 🎮 **Current Projects**
 
