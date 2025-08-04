@@ -40,7 +40,10 @@ Welcome to my GitHub corner! I'm a computer science student and passionate **Pyt
   **CS50x: Introduction to Computer Science** – Exploring C and foundational computer science concepts through *Harvard University (edX)*.
 
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  **C++ Language** – Learning C++ fundamentals and object-oriented programming as part of my *Local College Program (2025)*.
+  **Core Computer Science Coursework (College)** – Studying C++, Discrete Structures, and foundational programming concepts as part of my *1st year Computer Science degree*.
+
+- ![roadmap.sh](https://img.shields.io/badge/-roadmap.sh-000000?style=for-the-badge&logo=roadmapsh&logoColor=white)  
+  **Computer Science Roadmap** – Following the curated roadmap from [roadmap.sh](https://roadmap.sh/computer-science) to deepen my CS foundations step by step.
 
 ## 🤝 **Collaboration Interests**
 
