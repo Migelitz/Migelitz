@@ -5,6 +5,7 @@ Welcome to my GitHub corner! I'm a computer science student and passionate **Pyt
 ## 🎮 **Current Projects**
 
 - [GridGuru](https://github.com/Migelitz/py-sudoku-solver#) – A Sudoku solver that supports GUI input, image recognition, and real-time solving logic.
+- [LockBox++](https://github.com/Migelitz/LockBox) - A command line interface (CLI) program that saves your credentials inside of your local machine.
 
 ## 📚 **Learning Goals**
 
