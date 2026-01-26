@@ -1,77 +1,44 @@
-# 👋 **Hello there!** _I'm Chyrus Miguel D. Macalla_
+# Hi, I'm Chyrus Miguel 👋
 
-Welcome to my GitHub corner! I'm a computer science student and passionate **Python programmer** currently expanding my skills in **C++** and **C**. I enjoy solving problems through logical coding and am currently working on a challenging project involving image processing and GUI development. I'm excited to dive deeper into software engineering, **artificial intelligence**, and machine learning.
+I am a **Computer Science Undergraduate** at **Pampanga State University (Bacolor)**.
 
-## 🎮 **Current Projects**
+My journey is focused on the intersection of **Software Engineering** and **Mathematics**. I am currently **expanding my technical toolkit**—leveraging my background in **Python** while diving into **C++** to master low-level concepts like memory management and algorithms. My long-term goal is to specialize in **Artificial Intelligence & Machine Learning**.
 
-- [GridGuru](https://github.com/Migelitz/py-sudoku-solver#) – A Sudoku solver that supports GUI input, image recognition, and real-time solving logic.
-- [LockBox++](https://github.com/Migelitz/LockBox) - A command line interface (CLI) program that saves your credentials inside of your local machine.
+---
 
-## 📚 **Learning Goals**
+### 🏆 Achievements
 
-- **Programming Languages & Libraries:** Strengthening my knowledge in Python, C++, and Java, and working with libraries like PyQt5, pygame, and core Python modules such as sys, time, datetime, and random.
-- **Data Science & AI:** Beginning to explore artificial intelligence and machine learning techniques.
-- **Software Engineering:** Focusing on writing clean, logical, and maintainable code, embracing software engineering principles including problem-solving, best practices, and testing.
-- **Continuous Learning:** Developing a mindset of curiosity and persistence in mastering new skills and technologies.
+* **2nd Runner Up** – **RAITE Regional Programming Competition 2025 (Region 3)**
+    * *CodeChum Programming Challenge*
+    * Competed against 18 schools in a team-based algorithmic solving contest.
+* **Microsoft Excel Specialist** – Certified
 
-## 🧰 Languages & Tools
+---
 
-**Currently Comfortable With:**
+### 🛠 Languages & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Core Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
-**Getting Comfortable With:**
-*(Used in small projects and continuing to improve skills.)*
+**Libraries & Ecosystem**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) *(Data Science Fundamentals)*
+<br>
+*Exposure to:* ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-3F4F75?style=flat-square&logo=python&logoColor=white)
 
-![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Development Environment**
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-**Planned to learn / Explore:**
+---
 
-![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### 📚 Current Academic Focus
 
-## 🧠 Currently Studying
+* **Advanced Mathematics:** Differential Calculus & Linear Algebra (Focusing on the math behind AI/ML).
+* **Computer Science Fundamentals:** Data Structures, Algorithms, and Computer Networking.
 
-- ![Harvard](https://img.shields.io/badge/-Harvard%20CS50x-A51C30?style=for-the-badge&logo=edx&logoColor=white)  
-  **CS50x: Introduction to Computer Science** – Exploring C and foundational computer science concepts through *Harvard University (edX)*.
+---
 
-- ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-  **Core Computer Science Coursework (College)** – Studying C++, Discrete Structures, and foundational programming concepts as part of my *1st year Computer Science degree*.
+### 📫 Contact
 
-- ![roadmap.sh](https://img.shields.io/badge/-roadmap.sh-000000?style=for-the-badge&logo=roadmapsh&logoColor=white)  
-  **Computer Science Roadmap** – Following the curated roadmap from [roadmap.sh](https://roadmap.sh/computer-science) to deepen my CS foundations step by step.
+I am open to connecting with peers and mentors in the software engineering and AI space.
 
-## 🤝 **Collaboration Interests**
-
-I’m eager to collaborate on projects involving Python, software development, AI, or anything that challenges my problem-solving skills. If you have ideas or opportunities to share, let’s connect!
-
-## 🆘 **Seeking Help**
-
-As I continue my journey into computer science and programming, I welcome advice, mentorship, and feedback from experienced developers and peers.
-
-## 📬 **Contact Me**
-
-GitHub: [Migelitz](https://github.com/Migelitz)  
-Email: macalla.chyrusmiguel@gmail.com  
-LinkedIn: [Chyrus Miguel D. Macalla](https://www.linkedin.com/in/chyrus-miguel-d-macalla)  
-
-## 🏆 **Achievements & Skills**
-
-- Microsoft Excel Specialist Certificate  
-- Relentless curiosity and dedication to learning  
-- Problem-solving through logical and clean coding practices
-
-## 🎮 **Fun Facts**
-
-- Huge fan of video games, webtoons, manga, and anime  
-- Less enthusiastic about arts — creativity isn't my strongest stat  
-- I love falling into random rabbit holes of strange knowledge online
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/migelitz/migelitz/output/snake.svg" alt="Snake animation" />
+* [**Email Me**](mailto:macalla.chyrusmiguel@gmail.com)
