@@ -8,6 +8,8 @@ My journey is focused on the intersection of **Software Engineering** and **Math
 
 ### 🏆 Achievements
 
+* **Intro to Machine Learning Certificate** - **Kaggle**
+    * *Completed foundational training on building and evaluating core machine learning models.*
 * **2nd Runner Up** – **RAITE Regional Programming Competition 2025 (Region 3)**
     * *CodeChum Programming Challenge*
     * Competed against 18 schools in a team-based algorithmic solving contest.
