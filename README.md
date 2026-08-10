@@ -2,13 +2,23 @@
 
 **Aspiring AI/ML Engineer | Systems & Automation | Computer Science Undergraduate**
 
-I am a Computer Science student at **Pampanga State University (Bacolor)**, specializing in machine learning pipelines, high-performance native systems integration, and custom automation tools.
+I am a Computer Science student at **Pampanga State University (Bacolor)**, specializing in machine learning pipelines, high-performance native systems integration, web/cloud backend architectures, and custom automation tools.
 
-My primary focus is **Artificial Intelligence and Machine Learning Engineering**. I bridge data-driven Python ML models with low-level compiled systems (C++/JNI) and robust backend services (Java/SQLite) to build low-latency, scalable applications.
+My primary focus is Artificial Intelligence and Machine Learning Engineering. I bridge data-driven Python ML models with low-level compiled systems (C++/JNI), cloud databases (PostgreSQL/Neon), and robust RESTful API services (FastAPI/Java) to build scalable, production-ready applications.
 
 ---
 
 ### 🚀 Featured Flagship Project
+
+#### 🚗 [AutoVal – Full-Stack Car Valuation & ML Analytics Platform](https://github.com/ThreeBytes-Studio/AutoVal)
+> **An End-to-End ML Web Application Predicting Second-Hand Vehicle Values**
+
+* **Role:** Project Lead & Database/Backend Engineer
+* **System Architecture & Leadership:** Initiated the project and mapped out the end-to-end software pipeline, defining the data flow across the frontend, FastAPI backend, ML engine, and cloud database.
+* **Cloud Database & Schema Design:** Architected and hosted serverless PostgreSQL tables on Neon DB (`schema.sql`, `init_db.py`), establishing `prediction_logs` to log live inference inputs for future retraining and `historical_car_listing` for frontend visualization.
+* **Database Access Layer:** Developed database access modules (`chart_mapper.py`) using `psycopg` to query and fetch historical listing records for API delivery to the frontend client.
+* **ETL Ingestion & Stratified Seeding:** Wrote a Python data seeding pipeline (`seed.py`) using Pandas and Scikit-Learn to clean, filter, and stratify 100,000+ raw Craigslist listings to seed the database while preserving exact manufacturer distributions.
+* **Code Review & Team Integration:** Managed team code reviews and pull requests, verifying database connections and backend integration before merging into main.
 
 #### 🛡️ [Sentinel Risk Engine](https://github.com/Migelitz/sentinel-risk-engine)
 
@@ -38,6 +48,11 @@ My primary focus is **Artificial Intelligence and Machine Learning Engineering**
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Backend, Data & Cloud**  
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Neon](https://img.shields.io/badge/Neon_DB-00E599?style=for-the-badge&logo=postgresql&logoColor=black)
 
 **AI, Machine Learning & Data**  
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
